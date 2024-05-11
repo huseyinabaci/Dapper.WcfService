@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Dapper.WcfService.ProductService" CodeBehind="ProductService.svc.cs" Factory="Dapper.WcfService.Dependencies.ServiceHostFactory"%>
